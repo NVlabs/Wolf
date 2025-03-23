@@ -1,5 +1,5 @@
 # Wolf 🐺: Dense Captioning with a World Summarization Framework
-The repo contains official Implementation and dataset (including annotations) of [Wolf 🐺: Dense Captioning with a World Summarization Framework](https://link.springer.com/chapter/10.1007/978-3-031-25063-7_1).
+The repo contains official Implementation and dataset (including annotations) of [Wolf 🐺: Dense Captioning with a World Summarization Framework](https://wolfv0.github.io/).
 
 ## Wolf Benchmark Overview
 | Dataset | Number | Download | Annotations |
