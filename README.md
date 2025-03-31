@@ -25,7 +25,7 @@ Please revise the script and run the code below to obtain your results.
 If you find this repo useful, please cite:
 ```
 @article{li2024wolf,
-  title={Wolf: Dense Video Captioning with a world summarization framework},
+  title={Wolf: Captioning everything with a world summarization framework},
   author={Li, Boyi and Zhu, Ligeng and Tian, Ran and Tan, Shuhan and Chen, Yuxiao and Lu, Yao and Cui, Yin and Veer, Sushant and Ehrlich, Max and Philion, Jonah and others},
   journal={arXiv preprint arXiv:2407.18908},
   year={2024}
